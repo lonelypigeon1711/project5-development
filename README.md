@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-Link to deployed web application `https://lonelypigeon1711.github.io/project6-development`
+Link to deployed web application `https://lonelypigeon1711.github.io/project5-development`
 
 ### Goal and Value of the Application
 The goal of this application is to understand React and the behind the scenes components of interactive interfaces. The goal of this particular application is to provide users with a list of suggested movies. The user can sort the movies from highest to lowest rated. They can filter the movies based on genre and rating. The user can also add a movie to their Watchlist (aggregation) where the total number of watching time will be displayed along with their selected movies. Overall, this application will help users select new movies to watch. 
